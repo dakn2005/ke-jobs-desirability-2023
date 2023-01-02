@@ -1,0 +1,910 @@
+{
+  "data": [
+    {
+      "edit_history_tweet_ids": ["1607068550128189441"],
+      "created_at": "2022-12-25T17:39:34.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1607068550128189441",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports Google",
+      "author_id": "1412714325194780673"
+    },
+    {
+      "edit_history_tweet_ids": ["1607067482128527360"],
+      "created_at": "2022-12-25T17:35:20.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1607067482128527360",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports @shadipaul @Google",
+      "author_id": "501635447"
+    },
+    {
+      "edit_history_tweet_ids": ["1607066932494143488"],
+      "created_at": "2022-12-25T17:33:09.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1607066932494143488",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports @CapitalFMKenya my dream work station. After Eric Latif and now Davis Ayega I believe given a chance I'll deliver.",
+      "author_id": "2787056471"
+    },
+    {
+      "edit_history_tweet_ids": ["1607037312881332225"],
+      "created_at": "2022-12-25T15:35:27.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1607037312881332225",
+      "in_reply_to_user_id": "875629885",
+      "text": "@KenGenKenya @WanjikuReports Thanks I'll keep checking",
+      "author_id": "2279314853"
+    },
+    {
+      "edit_history_tweet_ids": ["1607034787339845632"],
+      "created_at": "2022-12-25T15:25:25.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1607034787339845632",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports @EABL_PLC.",
+      "author_id": "3330721359"
+    },
+    {
+      "edit_history_tweet_ids": ["1607015333524606982"],
+      "created_at": "2022-12-25T14:08:07.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1607015333524606982",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports Yes",
+      "author_id": "1605916008799150083"
+    },
+    {
+      "edit_history_tweet_ids": ["1606989915807682561"],
+      "created_at": "2022-12-25T12:27:07.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606989915807682561",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports @mmcccxii Red cross",
+      "author_id": "1211179810648494080"
+    },
+    {
+      "edit_history_tweet_ids": ["1606988861481324545"],
+      "created_at": "2022-12-25T12:22:55.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606988861481324545",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports Hello @EABL_PLC I would love to be part of your team, as a biotechnologist",
+      "author_id": "994071066787098624"
+    },
+    {
+      "edit_history_tweet_ids": ["1606970441163280386"],
+      "created_at": "2022-12-25T11:09:43.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606970441163280386",
+      "in_reply_to_user_id": "334055645",
+      "text": "@KWALOFFICIAL @WanjikuReports Thank you.",
+      "author_id": "2978136190"
+    },
+    {
+      "edit_history_tweet_ids": ["1606969800730853376"],
+      "created_at": "2022-12-25T11:07:11.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606969800730853376",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports @EABL_PLC ,@AIRTEL_KE @KenyaAirways  \uD83D\uDE4F",
+      "author_id": "727830407702515712"
+    },
+    {
+      "edit_history_tweet_ids": ["1606964987293229058"],
+      "created_at": "2022-12-25T10:48:03.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606964987293229058",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports Toyota Kenya \uD83D\uDC4D",
+      "author_id": "1577561974279475202"
+    },
+    {
+      "edit_history_tweet_ids": ["1606949785470390272"],
+      "created_at": "2022-12-25T09:47:39.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606949785470390272",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports @KenyaPower_Care",
+      "author_id": "928338968348946433"
+    },
+    {
+      "edit_history_tweet_ids": ["1606948120641904640"],
+      "created_at": "2022-12-25T09:41:02.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606948120641904640",
+      "in_reply_to_user_id": "1390665826102087682",
+      "text": "@clarionsigei @WanjikuReports @OlkariaSpa @Deloitte Have a great one too ❤",
+      "author_id": "1055341552837500928"
+    },
+    {
+      "edit_history_tweet_ids": ["1606947881680011265"],
+      "created_at": "2022-12-25T09:40:05.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606947881680011265",
+      "in_reply_to_user_id": "1055341552837500928",
+      "text": "@Kevynmutai1 @WanjikuReports @OlkariaSpa @Deloitte I pray ❤️Merry Christmass",
+      "author_id": "1390665826102087682"
+    },
+    {
+      "edit_history_tweet_ids": ["1606937509438578689"],
+      "created_at": "2022-12-25T08:58:52.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606937509438578689",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports @Google",
+      "author_id": "1854079460"
+    },
+    {
+      "edit_history_tweet_ids": ["1606936849540386816"],
+      "created_at": "2022-12-25T08:56:15.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606936849540386816",
+      "in_reply_to_user_id": "875629885",
+      "text": "@KenGenKenya @WanjikuReports I have been trying several times to apply for openings posted but i have to create an account and wait for it to be verified, accepted or approved and boooy it never goes through. Kindly advice on the application procedure or help out lt with the account cause am interested",
+      "author_id": "3218718486"
+    },
+    {
+      "edit_history_tweet_ids": ["1606935218837159936"],
+      "created_at": "2022-12-25T08:49:46.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606935218837159936",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports @hinduunilever i would glad given a chance to work with you",
+      "author_id": "1475377328"
+    },
+    {
+      "edit_history_tweet_ids": ["1606922767579992064"],
+      "created_at": "2022-12-25T08:00:17.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606922767579992064",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports I would wish to be part of the team in @KenyaRedCross .",
+      "author_id": "1225789256792264704"
+    },
+    {
+      "edit_history_tweet_ids": ["1606921540335173633"],
+      "created_at": "2022-12-25T07:55:25.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606921540335173633",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports @kikiwemo UN, Deloitte \uD83D\uDD6F️\uD83D\uDC9C",
+      "author_id": "1071426399368556544"
+    },
+    {
+      "edit_history_tweet_ids": ["1606921100369473536"],
+      "created_at": "2022-12-25T07:53:40.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606921100369473536",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports Always wanted to a team member at @Ilaria. I had an opportunity to work with them during my attachment period in Busia County under the Livestock and Agriculture department. Wonderful, just wonderful.",
+      "author_id": "1894158896"
+    },
+    {
+      "edit_history_tweet_ids": ["1606920539582435333"],
+      "created_at": "2022-12-25T07:51:26.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606920539582435333",
+      "in_reply_to_user_id": "1275140347",
+      "text": "@sngamau @WanjikuReports Sure you addressed the application to the right office?",
+      "author_id": "2414015268"
+    },
+    {
+      "edit_history_tweet_ids": ["1606919942930157569"],
+      "created_at": "2022-12-25T07:49:04.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606919942930157569",
+      "in_reply_to_user_id": "1390665826102087682",
+      "text": "@clarionsigei @WanjikuReports @OlkariaSpa @Deloitte You will love\uD83D\uDE0D",
+      "author_id": "1055341552837500928"
+    },
+    {
+      "edit_history_tweet_ids": ["1606913909524680705"],
+      "created_at": "2022-12-25T07:25:05.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606913909524680705",
+      "in_reply_to_user_id": "2561297364",
+      "text": "@StanbicKE Right away",
+      "author_id": "3957834861"
+    },
+    {
+      "edit_history_tweet_ids": ["1606913374918529025"],
+      "created_at": "2022-12-25T07:22:58.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606913374918529025",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports @Toyotakenya and @KenGenKenya",
+      "author_id": "1445227667540914185"
+    },
+    {
+      "edit_history_tweet_ids": ["1606912755042496512"],
+      "created_at": "2022-12-25T07:20:30.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606912755042496512",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports ChatGPT",
+      "author_id": "1194597121019789312"
+    },
+    {
+      "edit_history_tweet_ids": ["1606911150976819201"],
+      "created_at": "2022-12-25T07:14:08.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606911150976819201",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports @DavisShirtliff, naomba kazi",
+      "author_id": "3695295742"
+    },
+    {
+      "edit_history_tweet_ids": ["1606910995020095490"],
+      "created_at": "2022-12-25T07:13:30.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606910995020095490",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports @Amref_Kenya iko sawa",
+      "author_id": "995028518"
+    },
+    {
+      "edit_history_tweet_ids": ["1606910616496738306"],
+      "created_at": "2022-12-25T07:12:00.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606910616496738306",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports Amref",
+      "author_id": "995028518"
+    },
+    {
+      "edit_history_tweet_ids": ["1606906351011110912"],
+      "created_at": "2022-12-25T06:55:03.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606906351011110912",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports @Amref_Worldwide",
+      "author_id": "949489986050691072"
+    },
+    {
+      "edit_history_tweet_ids": ["1606904595103551489"],
+      "created_at": "2022-12-25T06:48:04.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606904595103551489",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports @UN I need to be part of your team. Biotechnologist",
+      "author_id": "994071066787098624"
+    },
+    {
+      "edit_history_tweet_ids": ["1606897735365435392"],
+      "created_at": "2022-12-25T06:20:49.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606897735365435392",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports Unilever",
+      "author_id": "329509739"
+    },
+    {
+      "edit_history_tweet_ids": ["1606896907032436736"],
+      "created_at": "2022-12-25T06:17:31.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606896907032436736",
+      "in_reply_to_user_id": "334055645",
+      "text": "@KWALOFFICIAL @WanjikuReports Thank you for the update",
+      "author_id": "1110927482"
+    },
+    {
+      "edit_history_tweet_ids": ["1606896716745146373"],
+      "created_at": "2022-12-25T06:16:46.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606896716745146373",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports @Microsoft @Google @IBM",
+      "author_id": "898210195146407936"
+    },
+    {
+      "edit_history_tweet_ids": ["1606892285324656640"],
+      "created_at": "2022-12-25T05:59:10.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606892285324656640",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports @UnKenya",
+      "author_id": "1414157188633972740"
+    },
+    {
+      "edit_history_tweet_ids": ["1606891993476796416"],
+      "created_at": "2022-12-25T05:58:00.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606891993476796416",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports I would like to work with United Nations. @UN",
+      "author_id": "1414157188633972740"
+    },
+    {
+      "edit_history_tweet_ids": ["1606888531053498370"],
+      "created_at": "2022-12-25T05:44:15.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606888531053498370",
+      "in_reply_to_user_id": "1110927482",
+      "text": "@CShihembetsa @WanjikuReports Thank you for your interest in working with us @CShihembetsa . Be on the lookout on our official social media pages where we regularly post job openings.",
+      "author_id": "334055645"
+    },
+    {
+      "edit_history_tweet_ids": ["1606886828933582848"],
+      "created_at": "2022-12-25T05:37:29.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606886828933582848",
+      "in_reply_to_user_id": "2978136190",
+      "text": "@ejidiomuchira @WanjikuReports Thank you for your interest in working with us @ejidiomuchira . Be on the lookout on our official social media pages where we regularly post job openings.",
+      "author_id": "334055645"
+    },
+    {
+      "edit_history_tweet_ids": ["1606884162107056129"],
+      "created_at": "2022-12-25T05:26:53.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606884162107056129",
+      "in_reply_to_user_id": "875629885",
+      "text": "@KenGenKenya @WanjikuReports Ta.\nHappy festivity day and new year",
+      "author_id": "1381852776993546240"
+    },
+    {
+      "edit_history_tweet_ids": ["1606883295656026114"],
+      "created_at": "2022-12-25T05:23:26.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606883295656026114",
+      "in_reply_to_user_id": "3218718486",
+      "text": "@Fitah_Wamugi @WanjikuReports We appreciate your desire to join the #EnergyChampion team! All job opportunities within \n@KenGenKenya\n will be posted on our website career portal https://t.co/6FCORsdXcq kindly keep checking for when an opportunity you are interested in arises. ^EM",
+      "author_id": "875629885"
+    },
+    {
+      "edit_history_tweet_ids": ["1606883141372739584"],
+      "created_at": "2022-12-25T05:22:50.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606883141372739584",
+      "in_reply_to_user_id": "3019503004",
+      "text": "@joseph_ngumi @WanjikuReports We appreciate your desire to join the #EnergyChampion team! All job opportunities within \n@KenGenKenya\n will be posted on our website career portal https://t.co/6FCORsdXcq kindly keep checking for when an opportunity you are interested in arises. ^EM",
+      "author_id": "875629885"
+    },
+    {
+      "edit_history_tweet_ids": ["1606883069662724096"],
+      "created_at": "2022-12-25T05:22:32.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606883069662724096",
+      "in_reply_to_user_id": "2279314853",
+      "text": "@wairimu_fay @WanjikuReports We appreciate your desire to join the #EnergyChampion team! All job opportunities within \n@KenGenKenya\n will be posted on our website career portal https://t.co/6FCORsdXcq kindly keep checking for when an opportunity you are interested in arises. ^EM",
+      "author_id": "875629885"
+    },
+    {
+      "edit_history_tweet_ids": ["1606882993687109632"],
+      "created_at": "2022-12-25T05:22:14.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606882993687109632",
+      "in_reply_to_user_id": "1381852776993546240",
+      "text": "@lecebfelix @WanjikuReports We appreciate your desire to join the #EnergyChampion team! All job opportunities within \n@KenGenKenya\n will be posted on our website career portal https://t.co/6FCORsdXcq kindly keep checking for when an opportunity you are interested in arises. ^EM",
+      "author_id": "875629885"
+    },
+    {
+      "edit_history_tweet_ids": ["1606882945628872705"],
+      "created_at": "2022-12-25T05:22:03.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606882945628872705",
+      "in_reply_to_user_id": "921823956042240005",
+      "text": "@ZJ_HammerHead @WanjikuReports We appreciate your desire to join the #EnergyChampion team! All job opportunities within \n@KenGenKenya\n will be posted on our website career portal https://t.co/6FCORsdXcq kindly keep checking for when an opportunity you are interested in arises. ^EM",
+      "author_id": "875629885"
+    },
+    {
+      "edit_history_tweet_ids": ["1606882892851953664"],
+      "created_at": "2022-12-25T05:21:50.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606882892851953664",
+      "in_reply_to_user_id": "1581327847955828738",
+      "text": "@notwillace @WanjikuReports We appreciate your desire to join the #EnergyChampion team! All job opportunities within \n@KenGenKenya\n will be posted on our website career portal https://t.co/6FCORsdXcq kindly keep checking for when an opportunity you are interested in arises. ^EM",
+      "author_id": "875629885"
+    },
+    {
+      "edit_history_tweet_ids": ["1606882811234983938"],
+      "created_at": "2022-12-25T05:21:31.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606882811234983938",
+      "in_reply_to_user_id": "3261177052",
+      "text": "@man_eriko @WanjikuReports We appreciate your desire to join the #EnergyChampion team! All job opportunities within \n@KenGenKenya\n will be posted on our website career portal https://t.co/6FCORsdXcq kindly keep checking for when an opportunity you are interested in arises. ^EM",
+      "author_id": "875629885"
+    },
+    {
+      "edit_history_tweet_ids": ["1606882761364721664"],
+      "created_at": "2022-12-25T05:21:19.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606882761364721664",
+      "in_reply_to_user_id": "1342758869303500802",
+      "text": "@COLLINS12987636 @WanjikuReports We appreciate your desire to join the #EnergyChampion team! All job opportunities within \n@KenGenKenya\n will be posted on our website career portal https://t.co/6FCORsdXcq kindly keep checking for when an opportunity you are interested in arises. ^EM",
+      "author_id": "875629885"
+    },
+    {
+      "edit_history_tweet_ids": ["1606881946558238720"],
+      "created_at": "2022-12-25T05:18:05.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606881946558238720",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports We appreciate your desire to join the #EnergyChampion team! All job opportunities within @KenGenKenya will be posted on our website career portal https://t.co/sq0JS5e91m kindly keep checking for when an opportunity you are interested in arises. ^EM",
+      "author_id": "875629885"
+    },
+    {
+      "edit_history_tweet_ids": ["1606880805690769408"],
+      "created_at": "2022-12-25T05:13:33.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606880805690769408",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports Andela, 100%",
+      "author_id": "976349577208127488"
+    },
+    {
+      "edit_history_tweet_ids": ["1606879793118683137"],
+      "created_at": "2022-12-25T05:09:31.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606879793118683137",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports @Google  kenya",
+      "author_id": "1411638186456010752"
+    },
+    {
+      "edit_history_tweet_ids": ["1606877946752409601"],
+      "created_at": "2022-12-25T05:02:11.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606877946752409601",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports Id love to work with @OlkariaSpa @Deloitte",
+      "author_id": "1390665826102087682"
+    },
+    {
+      "edit_history_tweet_ids": ["1606877339366969346"],
+      "created_at": "2022-12-25T04:59:46.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606877339366969346",
+      "in_reply_to_user_id": "4894362658",
+      "text": "@UnKenya @WanjikuReports Please link me to volunteer programs around central kenya",
+      "author_id": "940536563297083393"
+    },
+    {
+      "edit_history_tweet_ids": ["1606877089856196616"],
+      "created_at": "2022-12-25T04:58:47.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606877089856196616",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports @UN",
+      "author_id": "703597245"
+    },
+    {
+      "edit_history_tweet_ids": ["1606876752650932226"],
+      "created_at": "2022-12-25T04:57:26.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606876752650932226",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports @kenya port authority..I'd love to work @kpa cause I can make change for the future of the authority and working with you was ma dream",
+      "author_id": "1427614394385674242"
+    },
+    {
+      "edit_history_tweet_ids": ["1606871708614393856"],
+      "created_at": "2022-12-25T04:37:24.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606871708614393856",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports UN",
+      "author_id": "838235362938011649"
+    },
+    {
+      "edit_history_tweet_ids": ["1606867306184953856"],
+      "created_at": "2022-12-25T04:19:54.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606867306184953856",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports 7 and 15 , Amen",
+      "author_id": "2774593265"
+    },
+    {
+      "edit_history_tweet_ids": ["1606865906138767362"],
+      "created_at": "2022-12-25T04:14:20.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606865906138767362",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports I have been dreaming to work with @KenyaAirports and hopefully 2023 I will join the company",
+      "author_id": "1403674505797681157"
+    },
+    {
+      "edit_history_tweet_ids": ["1606864888609095681"],
+      "created_at": "2022-12-25T04:10:18.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606864888609095681",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports @Amref_Kenya  It would be an accomplished dream if I get the opportunity to work with you. I'm a graduate from the Multimedia University of Kenya. I pursued Bachelor of arts in Psychology and Sociology. I have experience of working with different communities as a site team leader",
+      "author_id": "1548582817663270912"
+    },
+    {
+      "edit_history_tweet_ids": ["1606860916888600577"],
+      "created_at": "2022-12-25T03:54:31.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606860916888600577",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports @Kenya_Ports is how??",
+      "author_id": "2501961604"
+    },
+    {
+      "edit_history_tweet_ids": ["1606859005179174914"],
+      "created_at": "2022-12-25T03:46:55.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606859005179174914",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports Coca Cola @CocaCola",
+      "author_id": "3191169922"
+    },
+    {
+      "edit_history_tweet_ids": ["1606858333968863234"],
+      "created_at": "2022-12-25T03:44:15.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606858333968863234",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports @PwC_KE has been my dream organization since joining campus.I would love to be part of the PwC Family. Any openings in the advisory/Audit department would be appreciated.#IkeepTheDreamAlive",
+      "author_id": "3152579081"
+    },
+    {
+      "edit_history_tweet_ids": ["1606852825522241536"],
+      "created_at": "2022-12-25T03:22:22.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606852825522241536",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports @PwCUS I am a graduate student at @NotreDame. I am an experienced empirical researcher with business acumen. I am interested in working with your business transformation consulting team; but I am also open for any opportunity \uD83D\uDE0A. \n@PwC @PwCclimateready",
+      "author_id": "916498291348697089"
+    },
+    {
+      "edit_history_tweet_ids": ["1606848917810839553"],
+      "created_at": "2022-12-25T03:06:50.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606848917810839553",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports @SafaricomPLC",
+      "author_id": "1376644327"
+    },
+    {
+      "edit_history_tweet_ids": ["1606807676381728768"],
+      "created_at": "2022-12-25T00:22:57.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606807676381728768",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports Esri",
+      "author_id": "1123056643317612544"
+    },
+    {
+      "edit_history_tweet_ids": ["1606795814151622657"],
+      "created_at": "2022-12-24T23:35:49.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606795814151622657",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports @UnileverEA @KWALOFFICIAL",
+      "author_id": "2718078451"
+    },
+    {
+      "edit_history_tweet_ids": ["1606786974655848448"],
+      "created_at": "2022-12-24T23:00:42.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606786974655848448",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports @KenGenKenya",
+      "author_id": "921823956042240005"
+    },
+    {
+      "edit_history_tweet_ids": ["1606780785008250880"],
+      "created_at": "2022-12-24T22:36:06.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606780785008250880",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports @PwC",
+      "author_id": "844226775702028290"
+    },
+    {
+      "edit_history_tweet_ids": ["1606777289592774656"],
+      "created_at": "2022-12-24T22:22:12.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606777289592774656",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports Betika",
+      "author_id": "1605864033390940161"
+    },
+    {
+      "edit_history_tweet_ids": ["1606771953519722498"],
+      "created_at": "2022-12-24T22:01:00.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606771953519722498",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports @UN",
+      "author_id": "1192545858358788096"
+    },
+    {
+      "edit_history_tweet_ids": ["1606770130356436993"],
+      "created_at": "2022-12-24T21:53:46.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606770130356436993",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports 23",
+      "author_id": "1550047046"
+    },
+    {
+      "edit_history_tweet_ids": ["1606769071315378181"],
+      "created_at": "2022-12-24T21:49:33.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606769071315378181",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports @UN",
+      "author_id": "1436301502428110854"
+    },
+    {
+      "edit_history_tweet_ids": ["1606764664737628162"],
+      "created_at": "2022-12-24T21:32:02.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606764664737628162",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports @AmrefTanzania I am writing to express my interest in working with your organization as a midwife. I am a highly skilled and compassionate midwife with over 5 years of experience in providing prenatal, postnatal, and newborn care to women and families.",
+      "author_id": "500634110"
+    },
+    {
+      "edit_history_tweet_ids": ["1606763987244552192"],
+      "created_at": "2022-12-24T21:29:21.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606763987244552192",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports @KSBcompany",
+      "author_id": "1074652312646377473"
+    },
+    {
+      "edit_history_tweet_ids": ["1606760565380354050"],
+      "created_at": "2022-12-24T21:15:45.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606760565380354050",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports Andela",
+      "author_id": "739532023623258112"
+    },
+    {
+      "edit_history_tweet_ids": ["1606759795188531203"],
+      "created_at": "2022-12-24T21:12:41.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606759795188531203",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports EABL as a driver",
+      "author_id": "266440881"
+    },
+    {
+      "edit_history_tweet_ids": ["1606758118599409666"],
+      "created_at": "2022-12-24T21:06:02.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606758118599409666",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports @Amref_Worldwide",
+      "author_id": "1173281331972849664"
+    },
+    {
+      "edit_history_tweet_ids": ["1606754304009838592"],
+      "created_at": "2022-12-24T20:50:52.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606754304009838592",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports @EABL_PLC am a biochemistry graduate and would highly appreciate working with the company come 2023\uD83D\uDE4Fany job opening that would help me grow my career will be highly appreciated. It would be a dream come true",
+      "author_id": "1245998929134698496"
+    },
+    {
+      "edit_history_tweet_ids": ["1606753514159575041"],
+      "created_at": "2022-12-24T20:47:44.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606753514159575041",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports @SportPesa",
+      "author_id": "1555962019"
+    },
+    {
+      "edit_history_tweet_ids": ["1606753423453560833"],
+      "created_at": "2022-12-24T20:47:22.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606753423453560833",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports @CocaCola",
+      "author_id": "1555962019"
+    },
+    {
+      "edit_history_tweet_ids": ["1606753355015114753"],
+      "created_at": "2022-12-24T20:47:06.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606753355015114753",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports @SakajaJohnson i wouldn't mind working with you for the betterment of Nairobi come 2023\uD83D\uDE4F",
+      "author_id": "1245998929134698496"
+    },
+    {
+      "edit_history_tweet_ids": ["1606750784904912898"],
+      "created_at": "2022-12-24T20:36:53.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606750784904912898",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports @RUBiSKenya_ @TotalEnergies @VivoEnergy I'm an experienced mechanical engineer, with broad knowledge in Metrology Engineering (calibration of meters and pumps).\nI have got interest in working with you. \nI'll appreciate if you get back.",
+      "author_id": "1278596170017845248"
+    },
+    {
+      "edit_history_tweet_ids": ["1606747423459913728"],
+      "created_at": "2022-12-24T20:23:32.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606747423459913728",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports Oil company",
+      "author_id": "1157724066754813952"
+    },
+    {
+      "edit_history_tweet_ids": ["1606741446224142336"],
+      "created_at": "2022-12-24T19:59:47.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606741446224142336",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports I have always admired to work with @EABL_PLC",
+      "author_id": "1394529761804816389"
+    },
+    {
+      "edit_history_tweet_ids": ["1606740893041840128"],
+      "created_at": "2022-12-24T19:57:35.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606740893041840128",
+      "in_reply_to_user_id": "951612824",
+      "text": "@DaverickK @WanjikuReports @Google Ingia @fiverr alafu uanze kutafuta gigs",
+      "author_id": "1181879528"
+    },
+    {
+      "edit_history_tweet_ids": ["1606737182110420992"],
+      "created_at": "2022-12-24T19:42:50.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606737182110420992",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports @KenGenKenya I am seeking for an opportunity to showcase skills as I gain the relevant experience. I am a graduate electronics and electrical technologist, with an IT background. Kindly consider my request and admiration, and get in touch for further information and clarification",
+      "author_id": "1236363273592856580"
+    },
+    {
+      "edit_history_tweet_ids": ["1606737160828239872"],
+      "created_at": "2022-12-24T19:42:45.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606737160828239872",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports @UnKenya",
+      "author_id": "2322078907"
+    },
+    {
+      "edit_history_tweet_ids": ["1606736021206573057"],
+      "created_at": "2022-12-24T19:38:13.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606736021206573057",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports @Google",
+      "author_id": "2246910471"
+    },
+    {
+      "edit_history_tweet_ids": ["1606735150292897793"],
+      "created_at": "2022-12-24T19:34:46.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606735150292897793",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports @Kenya_Ports",
+      "author_id": "1332555276537507840"
+    },
+    {
+      "edit_history_tweet_ids": ["1606734139956215808"],
+      "created_at": "2022-12-24T19:30:45.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606734139956215808",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports 13 Kenya Port Authority",
+      "author_id": "1332555276537507840"
+    },
+    {
+      "edit_history_tweet_ids": ["1606733938227122176"],
+      "created_at": "2022-12-24T19:29:57.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606733938227122176",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports 25",
+      "author_id": "895350318841688065"
+    },
+    {
+      "edit_history_tweet_ids": ["1606733912733913088"],
+      "created_at": "2022-12-24T19:29:51.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606733912733913088",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports @FlominahM 25",
+      "author_id": "895350318841688065"
+    },
+    {
+      "edit_history_tweet_ids": ["1606733672811749377"],
+      "created_at": "2022-12-24T19:28:53.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606733672811749377",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports @kenyapipeline \uD83D\uDE2D\uD83D\uDE2D\uD83D\uDE2D\uD83D\uDE2D",
+      "author_id": "1086895668264947714"
+    },
+    {
+      "edit_history_tweet_ids": ["1606732666228953091"],
+      "created_at": "2022-12-24T19:24:53.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606732666228953091",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports @Kenya_Ports \uD83D\uDE4F\uD83D\uDE4F\uD83D\uDE4F\uD83D\uDE4F @kipmurkomen",
+      "author_id": "1086895668264947714"
+    },
+    {
+      "edit_history_tweet_ids": ["1606732033908215815"],
+      "created_at": "2022-12-24T19:22:23.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606732033908215815",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports KRA",
+      "author_id": "584438383"
+    },
+    {
+      "edit_history_tweet_ids": ["1606731278837026821"],
+      "created_at": "2022-12-24T19:19:23.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606731278837026821",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports @Deloitte",
+      "author_id": "857246314979053569"
+    },
+    {
+      "edit_history_tweet_ids": ["1606729392062976000"],
+      "created_at": "2022-12-24T19:11:53.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606729392062976000",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports Sijaona mini group of bakeries",
+      "author_id": "1440402411890176003"
+    },
+    {
+      "edit_history_tweet_ids": ["1606726476199612417"],
+      "created_at": "2022-12-24T19:00:18.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606726476199612417",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports Am a qualified and competent driver would like to work with KPC or KenGen",
+      "author_id": "3308075471"
+    },
+    {
+      "edit_history_tweet_ids": ["1606724526330585089"],
+      "created_at": "2022-12-24T18:52:33.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606724526330585089",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports United nations",
+      "author_id": "980846148004077570"
+    },
+    {
+      "edit_history_tweet_ids": ["1606724253130362881"],
+      "created_at": "2022-12-24T18:51:28.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606724253130362881",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports @kenyapipeline as their insurance officer.",
+      "author_id": "568153672"
+    },
+    {
+      "edit_history_tweet_ids": ["1606721087492038657"],
+      "created_at": "2022-12-24T18:38:53.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606721087492038657",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports I know I'd like to be valuable at @Deloitte especially backed by my experience in communications and knowledge management.",
+      "author_id": "115995165"
+    },
+    {
+      "edit_history_tweet_ids": ["1606720889034252290"],
+      "created_at": "2022-12-24T18:38:06.000Z",
+      "conversation_id": "1606191046416748544",
+      "id": "1606720889034252290",
+      "in_reply_to_user_id": "1242834186173665280",
+      "text": "@WanjikuReports @SafaricomPLC Enterprise Business has been the driving force for me. Thanks once again for giving me an opportunity to serve fellow Kenyans",
+      "author_id": "890515952"
+    }
+  ],
+  "meta": {
+    "newest_id": "1607068550128189441",
+    "oldest_id": "1606720889034252290",
+    "result_count": 100,
+    "next_token": "b26v89c19zqg8o3fqk123rc4z5vd82oq7jnslhzbmdv25"
+  }
+}
