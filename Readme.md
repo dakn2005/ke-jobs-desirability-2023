@@ -8,4 +8,4 @@ Description of the notebook in this [article](https://keymannerdawid.medium.com/
 
 > The output
 
-![output](out/output.png)
+![output](jobs_2023.png)
