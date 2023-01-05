@@ -651,21 +651,17 @@ plt.show()
 
 ```
 
+ 
+### Jobs Desiriability Index 2023
     
-    [1m WanjikuReports Jobs Desiriability Index 2023 [1m
-    
-
-
-
     
 ![Jobs](jobs_2023.png)
-    
 
 
-#### Notes
+<!-- #### Notes -->
 <!-- Its important to note changes to metrics the last 3 days - Amref moved from 2nd to 3rd etc -->
 
-**Note** 
+**Notes** 
 
 - these interpretations are time-bound and decay over time hence it's important to keep updating this data
 - aggresively check on the error rates - these can be high
